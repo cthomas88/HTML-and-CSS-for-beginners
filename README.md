@@ -8,12 +8,14 @@ Welcome to my repo, focused on pure HTML and CSS. Here you can play with HTML an
 
 - Fork the repository
 - Clone the repository to your own account
-- Edit the index.html file with your own code
+- Create a new branch for your changes
+- Edit the index.html file or style sheet with your own code
 - Keep one new feature per new commit
+- Commit your changes on the command line / terminal
 - Push the changes to your repository on GitHub
 - Submit a Pull Request to have your changes contributed to the main repo
 
-Fork the repo to your own account, then clone the repository to your own computer. From there, edit the files, adding one new feature per commit to the webpage - be imaginative, and use code and syntax that you are new to, push yourself out of your comfort zone. 
+Fork the repo to your own account, then clone the repository to your own computer. It is best practise to create your changes on your own branch, which I will merge with the maste if successful. From there, edit the files, adding one new feature per commit to the webpage or styling - be imaginative, and use code and syntax that you are new to, push yourself out of your comfort zone. Try new things.
 
 ## Aims
 
