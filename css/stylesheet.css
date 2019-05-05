@@ -19,3 +19,21 @@ ul {
   .main_header {
     text-align: center;
   }
+
+  a:link {
+    color: #F1DFBD;
+    text-decoration: none;
+  }
+  a:visited {
+    color: #F1DFBD;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #614715;
+    text-decoration: overline;
+  }
+  a:active {
+    color: #614715;
+    text-decoration: none;
+  }
