@@ -9,12 +9,17 @@ ul {
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;
+    
   }
 
   body, html {
     background-color: #F6F4EF;
     height: 100%;
+    margin: 0;
   } 
+
+  .wrapper {
+  }
 
   .nav_bar {
     width: 100%;
