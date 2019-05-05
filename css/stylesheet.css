@@ -7,10 +7,13 @@ ul {
   li {
     display: inline-block;
     text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 
   .nav_bar {
-    width: 100%
+    width: 100%;
+    text-align: center;
   }
 
   .main_header {
