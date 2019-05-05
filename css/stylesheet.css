@@ -11,6 +11,11 @@ ul {
     margin-right: 5%;
   }
 
+  body, html {
+    background-color: #F6F4EF;
+    height: 100%;
+  } 
+
   .nav_bar {
     width: 100%;
     text-align: center;
@@ -24,6 +29,7 @@ ul {
     padding: 2%;
     font-family: 'Old Standard TT', serif;
     color: #51442A;
+    width: 100%;
   }
 
   a:link {
