@@ -5,5 +5,14 @@ ul {
   }
 
   li {
-    display: inline;
+    display: inline-block;
+    text-align: center;
+  }
+
+  .nav_bar {
+    width: 100%
+  }
+
+  .main_header {
+    text-align: center;
   }
