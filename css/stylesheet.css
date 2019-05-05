@@ -54,3 +54,22 @@ ul {
     color: #614715;
     text-decoration: none;
   }
+
+  .section_1 {
+    background-color: floralwhite;
+    width: 45%;
+    float: left;
+    text-align: left;
+    margin: 2%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #51442A;
+    padding: 1%;
+    position: fixed;
+  }
+
+  .second_header {
+    text-align: center;
+  }
+
+  
