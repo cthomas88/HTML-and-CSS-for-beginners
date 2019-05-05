@@ -14,10 +14,16 @@ ul {
   .nav_bar {
     width: 100%;
     text-align: center;
+    background-color: floralwhite;
+    padding-bottom: 3%;
   }
 
   .main_header {
     text-align: center;
+    background-color: floralwhite;
+    padding: 2%;
+    font-family: 'Old Standard TT', serif;
+    color: #51442A;
   }
 
   a:link {
