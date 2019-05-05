@@ -16,6 +16,8 @@ ul {
     background-color: #F6F4EF;
     height: 100%;
     margin: 0;
+    width: 100%;
+    overflow: hidden;
   } 
 
   #wrapper {
