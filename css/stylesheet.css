@@ -93,3 +93,11 @@ ul {
     font-family: 'Old Standard TT', serif;
     color: #51442A;
   }
+
+  .section_3 {
+    text-align: center;
+    padding: 2%;
+    font-family: 'Old Standard TT', serif;
+    color: #51442A;
+    width: 100%;
+  }
