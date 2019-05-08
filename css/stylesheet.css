@@ -101,3 +101,10 @@
     color: #51442A;
     width: 100%;
   }
+
+  .star_wars {
+    text-align: center;
+    margin: 3%;
+    font-size: 24px;
+    color: #51442A;
+  }
