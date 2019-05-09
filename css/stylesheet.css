@@ -108,3 +108,14 @@
     font-size: 24px;
     color: #51442A;
   }
+
+  .footer {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: floralwhite;
+    text-align: center;
+    clear: both;
+  }
