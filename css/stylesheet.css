@@ -119,3 +119,11 @@
     text-align: center;
     clear: both;
   }
+
+  img {
+    vertical-align: middle;
+  }
+
+  .social_icons {
+    /*float: right;*/
+  }
