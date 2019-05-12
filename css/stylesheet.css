@@ -22,7 +22,6 @@
   #wrapper {
     width: 100%;
     height: 100%;
-    background-image: url('HTML-and-CSS-for-beginners/images/background.jpg');
   }
 
   .nav_bar {
@@ -101,6 +100,7 @@
     font-family: 'Old Standard TT', serif;
     color: #51442A;
     width: 100%;
+    text-decoration: underline;
   }
 
   .star_wars {
