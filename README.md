@@ -4,6 +4,14 @@
 
 Welcome to my repo, focused on pure HTML and CSS. Here you can play with HTML and CSS to create a simple page, allowing you to practise with the foundations of coding and web development. This is about easing your way into the world of code and programming, for those who have little to no experience.
 
+## What is HTML?
+
+HTML is a markup language and stands for hyper text mark up language. It is what web developers use to display text and websites on a computer screen. A computer reads the language and uses it like a set of instructions on how a particular page should be displayed. 
+
+## What is CSS?
+
+CSS stands for cascading style sheet and allows you to add style, colors, boarders and many other visually appealing features to your web page and HTML document. 
+
 ## How to contribute
 
 - Fork the repository
