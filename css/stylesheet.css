@@ -12,7 +12,7 @@
   }
 
   body, html {
-    background-color: #F6F4EF;
+    background-color: #ffffff;
     height: 100%;
     margin: 0;
     width: 100%;
@@ -27,13 +27,13 @@
   .nav_bar {
     width: 100%;
     text-align: center;
-    background-color: floralwhite;
+    background-color: white;
     padding-bottom: 3%;
   }
 
   .main_header {
     text-align: center;
-    background-color: floralwhite;
+    background-color:white;
     padding: 2%;
     font-family: 'Old Standard TT', serif;
     color: #51442A;
@@ -41,26 +41,27 @@
   }
 
   a:link {
-    color: #F1DFBD;
+    color: #000000;
     text-decoration: none;
   }
   a:visited {
-    color: #F1DFBD;
+    color: #000000;
     text-decoration: none;
   }
 
   a:hover {
-    color: #614715;
+    color: #000000;
     text-decoration: overline;
   }
   a:active {
-    color: #614715;
+    color: #000000;
     text-decoration: none;
   }
 
   .section_1 {
     background-color: floralwhite;
     width: 45%;
+    height: 37%;
     float: left;
     text-align: left;
     margin: 1%;
