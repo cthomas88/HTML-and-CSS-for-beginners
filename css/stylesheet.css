@@ -5,8 +5,9 @@
   }
 
   li {
-    display: inline-block;
-    text-align: center;
+    display: flex;
+    Justify-Content:center;
+    align-item: center;
     margin-left: 5%;
     margin-right: 5%;
   }
@@ -28,7 +29,7 @@
     width: 100%;
     text-align: center;
     background-color: floralwhite;
-    padding-bottom: 3%;
+    padding-bottom: 33%;
   }
 
   .main_header {
